@@ -1,0 +1,8 @@
+{
+  "name": "ui_test_package",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/block-test-org/ui_test_package",
+    "ssh": "git@github.com:block-test-org/ui_test_package.git"
+  }
+}
